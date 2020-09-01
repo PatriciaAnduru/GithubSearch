@@ -75,3 +75,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 If you have any question or contributions, please email me at [andurupatricia@gmail.com]
 
+## License
+* *MIT License:*
+* Copyright (c) 2019 **Patricia Anduru**
+
