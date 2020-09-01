@@ -3,10 +3,11 @@
 #### By **PatriciaAnduru**
 
 ## Live link
+**https://patriciaanduru.github.io/GithubSearch/**
 
 
 ## Github repository
-**[click here](https://github.com/PatriciaAnduru/GithbSearch)** to view the repo.
+**[click here](https://github.com/PatriciaAnduru/GithubSearch.git)** to view the repo.
 
 ## Description
 
@@ -24,6 +25,21 @@ qualifier.
 ## Known Bugs
 
 There are no bugs at the moment
+
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone ```https://github.com/PatriciaAnduru/GithubSearch.git```
+
+* cd Git-Search
+
+* code . or atom . based on the text editor you have.
+
+* Run ng serve for a dev server. 
+
+* Navigate to http://localhost:4200/. 
+
+* `npm install && ng serve`
 
 ## Technologies Used
 
