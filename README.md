@@ -2,6 +2,9 @@
 
 #### By **PatriciaAnduru**
 
+
+[PatriciaAnduru](https://github.com/PatriciaAnduru)
+
 ## Live link
 **https://patriciaanduru.github.io/GithubSearch/**
 
