@@ -1,6 +1,6 @@
 # GithubSearchApp
 
-#### By **PatriciaAnduru**
+## Author
 
 
 [PatriciaAnduru](https://github.com/PatriciaAnduru)
